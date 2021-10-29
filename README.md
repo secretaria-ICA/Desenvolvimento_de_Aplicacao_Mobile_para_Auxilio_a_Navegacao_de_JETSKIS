@@ -1,5 +1,18 @@
 # ProjetoFinalBI
 
+Desenvolvimento de aplicação mobile para auxílio a navegação de jetskis.
+
+Aluno: Rafael de Almeida Peçanha - https://github.com/Rafaelpecan.
+
+Orientador: Manoela kohler - https://github.com/manoelakohler.
+
+
+Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+
+https://github.com/Rafaelpecan/projeto_final/tree/master
+
+Reumo
+
 O Jetski é um equipamento de transporte marítimo que quase sempre está relacionado somente a diversão em finais de semana de verão. Porém não é incomum notícias de acidentes envolvendo tais embarcações, isso ocorre na maioria dos casos não por problemas mecânicos do jetski, mas sim por negligências e/ou falta de informações de quem pilota tal equipamento. Existem algumas informações mínimas que são necessárias buescar antes de se decidir usar o jetski em um dia qualquer, são elas: Previsão do tempo, pois não é uma boa ideia ficar pegar um temporal em um jetski, pois é uma embarcação aberta, previsão de mar (altura das ondas) por ser difícil manter o controle caso as ondas estejam altas (mais de 1.5 metros), correndo risco do jetski virar e arremessar o piloto no mar e por último, outra variável importante de se checar antes de entrar no mar, seriam as condições de maré alta ou baixa, pois existe o risco do jetski não conseguir passar em regiões de maré muito baixa ou se chocar com pedras em marés altas. Resumindo temos 3 principais pontos de checagem antes de decidir utilizar o jetski, são elas:
 
 1 - Condições meteorológicas.
