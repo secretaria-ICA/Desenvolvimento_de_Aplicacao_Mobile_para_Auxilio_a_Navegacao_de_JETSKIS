@@ -3,6 +3,7 @@ ProjetoFinalBI
 Desenvolvimento de aplicação mobile para auxílio a navegação de jetskis.
 
 Aluno: Rafael de Almeida Peçanha - https://github.com/Rafaelpecan.
+
 Orientador: Manoela kohler - https://github.com/manoelakohler.
 
 
