@@ -66,7 +66,7 @@ O resultado do trabalho é algo prático, um painel em um aplicativo onde pode s
 ![image](https://user-images.githubusercontent.com/44373449/139498277-02193bfc-d97b-4460-a479-6fd454bd1190.png)
    
    
-E o migração de uma rede neural também para o ambiente um ambiente de produção, nesse caso a migração do python para o flutter através do tensorflowlite, a imagem abaixo ilustra uma classificação feita pela rede:
+Outro resultado é a migração de uma rede neural para um ambiente em produção, nesse caso a migração do python para o flutter através do tensorflowlite, a imagem abaixo ilustra uma classificação feita pela rede:
    
 
 ![image](https://user-images.githubusercontent.com/44373449/139499936-0a2abbbe-ba84-482f-8c4e-bc973135774c.png)
