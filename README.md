@@ -60,7 +60,7 @@ De posse dessas imagens foi lançado mão usando python de um transfer learning 
 
 Resultados
 
-O resultado do trabalho é algo prático, um painel em um aplicativo onde pode ser visto as condições meteorológicas e de mar em através de uma interface agradável, como ilustrado abaixo:  
+O resultado do trabalho é algo prático, um painel em um aplicativo onde pode ser visto as condições meteorológicas e de mar em uma interface agradável, como ilustrado abaixo:  
 
   
 ![image](https://user-images.githubusercontent.com/44373449/139498277-02193bfc-d97b-4460-a479-6fd454bd1190.png)
