@@ -1,4 +1,4 @@
-# Desenvolvimento_de_Aplicação_Mobile_para_Auxíli_a_Navegação_de_JETSKIS
+# Desenvolvimento_de_Aplicação_Mobile_para_Auxílio_a_Navegação_de_JETSKIS
 
 #### Aluno: [Rafael de Almeida Peçanha](https://github.com/Rafaelpecan)
 
